@@ -2,9 +2,9 @@ Attercop
 Hunter
 Prey
 Less than prey
-8 Legs
-6 Legs
-4 Legs
+8 Jambes
+6 Jambes
+4 Jambes
 Venomous
 Sweet
 Salty

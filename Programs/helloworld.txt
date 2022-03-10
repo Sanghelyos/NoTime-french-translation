@@ -14,7 +14,7 @@ clear
 b = 0
 while b < 10
 	b = b + 1
-	//row column opacy
+	//opacité de la ligne
 	draw 1,1,b*20
 end while
 breakline
@@ -22,7 +22,7 @@ breakline
 b = 0
 while b < 10
 	b = b + 1
-	//row column opacy
+	//opacité de la ligne
 	draw 1,1,b*20
 end while
 breakline
@@ -31,13 +31,13 @@ print "C'est génial, hein ?"
 wait 4
 clear
 
-print "Dois-je redémarrer l'OBP ? Y/N"
+print "Dois-je redémarrer l'OBP ? O/N"
 
 yes = readline
 
 print "vous avez dit: "+yes
 
-if yes.lower == "y" then
+if yes.lower == "o" then
   clear
   breakline
   print "Ok salut, je redémarre l'OBP..."

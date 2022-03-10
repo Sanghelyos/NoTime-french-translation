@@ -2,9 +2,9 @@ Monsieur Atôme
 Burger
 Montre en laiton
 Bardey's Coffee
-BC Volume 4: Coco Crab Man
+BC Volume 4: L'Homme crabe coco
 Mr. Bricolage
-Dollar
+Dollars
 Donut
 APE
 Eau glaçée
@@ -28,46 +28,46 @@ Boîte dimensionnelle
 Notes moins importantes
 Uranium
 Waste bail
-Club
+Gourdin
 Réacteur à fission
 Réacteur à fusion
 Cellule à fusion
 Boîte
-Circuit imprimé
+Pièces électroniques
 Personne disparue
-Strange Device
+Étrange appareil
 Device tracker
 APE Mark II
 Bière
-Prison key
-Prison key 2
+Clé de prison
+Deuxième clé de prison
 Lampe
 Lampe torche
 Cric
 Glaçe de Sandy
 Thée de Mincy
-Side door key
+Clé de la porte de côté
 Guard note
 Carte d'accès
 Fichiers
-File labeled "IMPORTANT DOCUMENTS"
+Fichier étiqueté "DOCUMENTS IMPORTANTS"
 Papier
 Journaux
 Pièces métalliques
 Traceur
-Robot head
-Cold Case: Accordion Man
-Urban Stories
+Tête de robot
+Affaire classée: L'Accordéoniste
+Histoires urbaines
 Chant
 Fleur d'Éléonore
-The Flowerbook
+Le livre des fleurs
 Chips n' Sticks
 Grill
 Steak cru
 Viande crue
 Viande cuite
 Message
-Override Chip: 300 BC
+Puce de contournement: 300 av. J.-C.
 OLOOMOOLOO
 Eggnog
 Cookie de Noël
@@ -83,8 +83,8 @@ Cake Mix
 Oeufs
 Snack Box
 Frozen Strawberries
-Strawberry
-Strawberry Cake
+Fraise
+Gâteau aux fraises
 Bouteille vide
 Illusive Medal
 Shilling
@@ -94,10 +94,10 @@ Peau de loup
 Peau de renard
 Yeux d'araignée
 Dinosaure sophistiqué
-Weather Core
+Noyau météo
 Contrôleur
 Backup of Log
-2Can Drink
+Boisson 2Can
 Administrator P.E.N.
 AI Turret
 Grenade IEM
@@ -108,10 +108,10 @@ OG Costume
 DeepSeaBase Plan
 Puce contenant un virus
 Fragment Checker
-Display
+Moniteur
 Codes de lancement
 Miel
-Honey Comb
+Rayon de miel
 Poisson cru
 Poisson cuit
 Mead
@@ -132,24 +132,24 @@ Strange Notice
 Time Conduction Circuit
 Key to Crimson's office
 Congratulations you finished No Time!
-Pirate Cake
+Gâteau pirate
 APE Mark III
-Mythical Creatures
+Les Créatures Mythiques
 Mrs. Nice's Chocolate Cookie
-Life time supply of crab meat
+Réserves à vie de viande de crabe
 Coco Crab Bisque
 Delgado's Journal
-Baked Sand
-Cold Case: 1923#
+Sablés
+Affaire classée: 1923#
 Kit médical
-Don's message
+Message de Don
 Casque d'Igor
 Viking Honey Cheese Cake
-Spiky Flower
-Golden Goblet
+Fleur épineuse
+Coupe en or
 Copy Machine
-Alpha Timeline 
-Ash
+Ligne temporelle Alpha
+Cendre
 Duplicator Core
 Ligne temporelle Beta
 Ligne temporelle Gamma
@@ -167,19 +167,19 @@ Coconut
 Coconut Drink
 Chili Powder
 Coco Crab Stew
-Unknown destination chip
-Cowboy Costume
-Vintage Costume
+Puce: destination inconnue
+Costume de cowboy
+Costume vintage
 Costume de pirate
 Lightning Rod
-Vintage Radio
+Radio vintage
 Les Cinq Hommes des Collines
 Clé de la prison de Fort Dun
 Minerai d'or
 Barre d'or de 100g
-The Five Hillmen & their friend.
+Les Cinq Hommes des Collines et leurs amis.
 Combinaison étanche
 Rads Gone!
-Lead Wrapped Uranium
-Soda Perfect
-Nuclear Soda
+Uranium gainé de plomb
+Soda parfait
+Soda nucléaire

@@ -1,9 +1,9 @@
-Tools
-Misc
-Defense
-Food
-Insufficient Input!
-Turn OFF
-Craft!
-Input:
-It needs:
+Outils
+Divers
+Défense
+Nourriture
+Entrée insuffisante !
+Éteindre
+Fabriquer !
+Entrée:
+Nécessaire:

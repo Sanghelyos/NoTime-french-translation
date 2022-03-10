@@ -22,10 +22,10 @@ Le jeu principal. Jouez à la campagne officielle de No Time, et vivez toutes se
 Ce n'est qu'un avant-goût ! Aucune histoire ou enjeu, seule votre créativité domine :) (Deviendra un outil de modding dans le futur)
 HEURES
 JOUER !
-Radio : Dossier d'installation/Mods/_Music/Radio/
+Radio: Dossier d'installation/Mods/_Music/Radio/
 APPUYEZ SUR UNE TOUCHE
 MODS (APERCU)
 FIN DU PREMIER ACTE
 FIN DU DEUXIEME ACTE
 FIN DU TROSIEME ACTE
-Oh là là, redémarrez STEAM. Steam semble s'être mal initialisé. ERREUR : blablabla monch kamambum hehe prlf.
+Oh là là, redémarrez STEAM. Steam semble s'être mal initialisé. ERREUR: blablabla monch kamambum hehe prlf.
