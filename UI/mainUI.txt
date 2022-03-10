@@ -1,0 +1,2 @@
+Held item can't be stored
+< Press a number

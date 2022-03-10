@@ -1,0 +1,13 @@
+Hello and welcome to NO TIME, a lost in days studio experience
+To begin the tutorial step forward into the light. Otherwise step back.
+(Press to move)
+Crouch and jump like this >>
+Pick up the uranium next to the car.
+(Press to pick up)
+Great! Now put the uranium on top of the reaction chamber. Use numbers <color=#FFBF00>[1] to [7]</color> to scroll through your inventory. Use the  <color=#FFBF00>Mouse Wheel</color> to hold your item farther or closer to you.
+To open your notepad...
+Press: 
+Read the <color=#FFBF00>"useful notes"</color>. They should be at the front of the car.
+After reading the notes get into the car by using the <color=#FFBF00>steering wheel</color>.
+<<<REMEMBER IN ORDER TO PROGRESS IN QUESTS YOU MUST BE IN THE RIGHT TIME
+--Please preserve the  <color=#FFBF00>" and the "</color> tags as is, since they get used by the code to color the text in the middle--

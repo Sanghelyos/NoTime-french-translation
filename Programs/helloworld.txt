@@ -1,0 +1,49 @@
+//Ceci vous montrera les fonctions basiques des
+//petits scripts
+
+print "Bonjour le monde !"
+wait 2
+breakline
+print "....saut de ligne..."
+breakline
+wait 2
+print "....laisse moi te dessiner quelque-chose..."
+wait 2
+clear
+ 
+b = 0
+while b < 10
+	b = b + 1
+	//row column opacy
+	draw 1,1,b*20
+end while
+breakline
+ 
+b = 0
+while b < 10
+	b = b + 1
+	//row column opacy
+	draw 1,1,b*20
+end while
+breakline
+
+print "C'est génial, hein ?"
+wait 4
+clear
+
+print "Dois-je redémarrer l'OBP ? Y/N"
+
+yes = readline
+
+print "vous avez dit: "+yes
+
+if yes.lower == "y" then
+  clear
+  breakline
+  print "Ok salut, je redémarre l'OBP..."
+  wait 2
+  reboot
+else
+  clear
+  print "Ok, c'est un non alors..."
+end if

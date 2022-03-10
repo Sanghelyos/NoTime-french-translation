@@ -1,0 +1,39 @@
+OFF
+Actives
+Terminées
+Fichiers
+Carte
+Dollars :
+$
+Shillings :
+Sh
+Stats
+Journal
+Monnaie
+Santé :
+Faim :
+Radiations :
+Effets :
+Nouveau
+Supprimer
+Modifier
+Exéc.
+Date : 
+Annuler
+Enregist.
+Quitter
+Recommencer
+Nouveau fichier
+Voulez-vous quitter ? Tout travail non enregistré sera perdu.
+Voulez-vous enregistrer votre travail ?
+Voulez-vous supprimer votre travail ?
+Oui.
+Non.
+Finie
+Échouée
+Actif
+Année:
+Mois:
+Jour:
+Heure:
+Statut:

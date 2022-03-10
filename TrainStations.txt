@@ -1,0 +1,11 @@
+PINE LAKE - HOVER STATION.
+LAC-DU-PIN - EST.
+BYROAD - HOVER STATION.
+FIS#! {ERROR}B @AH
+STATION CAP DE DUN.
+CAP DE DUN / Bourg-Du-Pont.
+--- keep the spaces after the strings below ---
+PRONCHAIN ARRÊT: 
+STATION ACUTELLE: 
+BYROUTE ! 
+Arrivées des trains: 

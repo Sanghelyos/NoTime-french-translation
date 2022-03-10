@@ -1,0 +1,3 @@
+Objects at hand
+Enter storage name...
+Leave

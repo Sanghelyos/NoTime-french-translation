@@ -1,0 +1,5 @@
+Enter Password: 
+Startup... -b- -Arrow Key: Select- -Enter: Confirm-
+Back
+Shut Down
+--SELECT WITH ARROW KEYS AND CONFIRM WITH ENTER--

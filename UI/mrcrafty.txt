@@ -1,0 +1,9 @@
+Tools
+Misc
+Defense
+Food
+Insufficient Input!
+Turn OFF
+Craft!
+Input:
+It needs:

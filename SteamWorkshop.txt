@@ -1,0 +1,38 @@
+ARTICLES ABONNÉS
+ARTICLES PERSONNALISÉS
+METTRE EN LIGNE
+SUPPRIMER
+COMPARER A L'ORIGINAL
+VOIR LE WORKSHOP
+NOUVEL ARTICLE
+OUVRIR LE FICHIER
+ENTRER UN TITRE POUR LE WORKSHOP
+PACKS DE LANGUES
+PACKS DE SONS
+PACKS DE TEXTURES
+PACKS DE MODÈLES
+ADDONS DE NIVEAUX
+BIENTÔT...
+ORIGINAUX
+VEUILLEZ PATIENTER...
+VOULEZ-VOUS VRAIMENT DÉTRUIRE CE FICHIER ?
+OUI
+NON
+ACTIVER
+ÉCHEC DE LA MISE EN LIGNE !
+CE FICHIER EXISTE DÉJÀ. VOULEZ-VOUS LE METTRE À JOUR ?
+COMPRESSION...
+CONVERSION...
+ENVOIE DU FICHIER...
+FICHIERS MANQUANTS !
+CES FICHIERS ONT DES LIGNES MANQUANTES !
+LIGNES MANQUANTES: 
+LIGNES EN SURPLUS: 
+Nom du fichier (Unique, pas de caractères spéciaux: !#*123)
+Desccription du fichier ...blablabla monch kamambum hehe prlf
+Chargement des packs de mods...
+Paquets restants:
+Écriture du fichier...
+Après vous être abonné à un mod, veuillez redémarrer pour compléter l'installation, puis activez le mod dans ce menu.
+Tout semble bon !
+Vous devez nommer votre mod avant de le mettre en ligne !

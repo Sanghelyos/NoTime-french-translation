@@ -1,0 +1,31 @@
+NOUVELLE EXPERIENCE
+REPRENDRE A LA DERNIRE FOIS
+OPTIONS
+CREDITS
+QUITTER
+CONTINUER
+CONTROLES
+RETOUR AU MENU
+CHARGER LA DERNIERE SAUVEGARDE
+RETOUR
+!Votre progression ne sera pas sauvegardée!
+Allons-y
+Retour au jeu
+Très bien
+SALUTATIONS
+Rechargez votre sauvegarde pour que cet effet prenne (pause) ...effet.
+Chargement...
+Signaler un bug ! :)
+MODE NORMAL
+MODE LIBRE
+Le jeu principal. Jouez à la campagne officielle de No Time, et vivez toutes ses histoires secondaires, trouvez les secrets et débloquez les succés.
+Ce n'est qu'un avant-goût ! Aucune histoire ou enjeu, seule votre créativité domine :) (Deviendra un outil de modding dans le futur)
+HEURES
+JOUER !
+Radio : Dossier d'installation/Mods/_Music/Radio/
+APPUYEZ SUR UNE TOUCHE
+MODS (APERCU)
+FIN DU PREMIER ACTE
+FIN DU DEUXIEME ACTE
+FIN DU TROSIEME ACTE
+Oh là là, redémarrez STEAM. Steam semble s'être mal initialisé. ERREUR : blablabla monch kamambum hehe prlf.

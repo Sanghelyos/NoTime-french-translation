@@ -1,0 +1,54 @@
+GENERAUX
+JOUEUR
+SUR PLANCHE
+VOITURE
+MOUVEMENTS
+RACCOURCIS
+INTERACTIONS
+INVENTAIRE
+PAR DEFAUT
+ENTREZ UNE TOUCHE
+SENSIBILITE SOURIS
+MANETTE (XBOX) [PAS PRET]
+INVERSER LE VOL EN VOITURE
+INVERSER LA CAM2RA
+VERR NUM AUTO
+Haut:
+Bas:
+Gauche:
+Droite:
+Sauter:
+S'accroupir:
+Courir:
+Utiliser:
+Informations:
+Boussole:
+OBP:
+Frapper:
+Lancer (Maintenir):
+Cancel Job:
+Zoom:
+Prendre/Lâcher:
+Emp. inventaire 1:
+Emp. inventaire 2:
+Emp. inventaire 3:
+Emp. inventaire 4:
+Menu bac à sable:
+Mode TOUT PUISSANT:
+Avancer:
+Reculer:
+Gauche:
+Droite:
+Freins:
+Vol:
+Propulsion asc.:
+Propulsion desc.:
+[Maint.] Glisse off:
+[Maint.] Glisse on:
+3ème personne:
+Conduction temporelle:
+Réacteur:
+Refroidissement réacteur:
+Phares:
+Quitter:
+SAUTER: HAUT + BAS

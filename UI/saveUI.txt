@@ -1,0 +1,9 @@
+RETOUR
+Confirmer
+Annuler
+MODE
+Warning! Previous save data will be lost.
+EMPTY
+DELETE
+---GAMEPLAY TIME---
+---SAVED DATE---

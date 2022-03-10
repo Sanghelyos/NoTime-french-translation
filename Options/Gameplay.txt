@@ -1,0 +1,4 @@
+Interval sauvegarde auto.: 
+minutes
+Effacement temporel au bout de:
+MB

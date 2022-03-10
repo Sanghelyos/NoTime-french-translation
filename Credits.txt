@@ -1,0 +1,98 @@
+--Chef du projet-- 
+Erathor Noname
+
+--Programmation-- 
+Erathor Noname
+
+--Modélisation 3D-- 
+Erathor Noname
+Raiikoe
+
+--Musique-- 
+Kevin Macleod sous license Creative Commons Attribution 3.0 
+"Totally Not Scary Accordion" par Teknoaxe.comsous license Creative Commons Atribution 4.0
+Green Goose (Thème du premier acte)
+Eon (Thème du deuxième acte)
+
+--Musiques radio--
+Corresponding artists are named along with the title when playing the radio
+
+Full Credit with the individual song titles can be found in the Installation Folder called "Legal.txt"
+
+All musical artists below under Creative Commons Attribution 3.0
+Kevin Macleod
+Karl Casey
+Vladmsorensen
+Myuu
+ScotArc
+AIRGLOW
+DOS-88
+INTRNLCMD
+ThreeChainLinks
+Scott Arc
+Stefan Ruesche 
+Synth Kid 
+
+Music under Creative Commons Attribution 2.0
+Scott Arc - Creep Reprise
+
+Other radio pieces
+Eon - Lucid
+
+--Effets sonores--
+Sons venant du domaine public récupérés chez Freesound.org
+Peter Randall
+Mroczny Gracz
+Erathor Noname
+
+"Thunder, Very Close, Rain, A.wav" par InspectorJ 
+https://freesound.org/people/InspectorJ/sounds/360328/
+https://creativecommons.org/licenses/by/3.0/
+
+--Voix-- 
+Joueur : Unfa
+Narrateur : JohannesVerne
+Edward : THE E Man
+PNJ :
+JohannesVerne
+LadySunnilicious
+David
+
+Voix des pubs en jeu :
+Erathor
+THE E Man
+OGWonka
+
+--Special Credit--
+HSV-Color-Picker-Unity by judah4 under 
+(HSV-Color-Picker-Unity is licensed under the MIT License)
+https://github.com/judah4/HSV-Color-Picker-Unity/blob/master/LICENSE
+MiniScript by JoeStrout 
+(MiniScript is licensed under the MIT LIcense)
+https://github.com/JoeStrout/miniscript/blob/master/LICENSE
+(The SharpZipLib library is released under the MIT license)
+https://github.com/icsharpcode/SharpZipLib
+
+
+EdwieSewie EasterEgg video by Mroczny Gracz
+
+--Un grand merci aux testeurs--
+Mattomo
+Averie
+ATDynaX
+Oxreli
+Jag
+Vernillet
+Raiikoe
+BcwGames
+TTG
+
+--Special thanks--
+THE E Man
+For his long time coverage on YouTube
+
+Erathors sister
+For drawing the comics
+
+Maria Devine Mercy
+For the Book of Truth

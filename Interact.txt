@@ -1,0 +1,24 @@
+Porte
+Lampadaire
+Caniveau
+Entrée
+Sortie
+Échelle
+Ascenseur
+Fleur épineuse
+Siège
+Arcade
+Kneel
+Ordinateur
+Door Panel
+Core Computer
+Levier
+Minerai d'uranium
+Minerai d'or
+Porte de prison
+Entrée de mine
+Trésor
+Télévision
+Sauvegarder/Charger la partie
+Sonnette
+Distributeur

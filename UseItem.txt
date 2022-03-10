@@ -1,0 +1,30 @@
+Lâcher
+Abandonner la mission
+Ramasser
+Échanger
+Parler
+Activate Berate
+Dans l'inventaire
+Info
+Flip channel
+Manger
+Boire
+Tourner la page
+Fabriquer
+Recharger
+Ouvrir
+Fermer
+Ride
+Utiliser
+Toggle
+Casser
+Activer
+Miner
+Transférer l'argent
+Habiller
+Déshabiller
+Doit être dans votre inventaire pour être utilisé
+Passer
+-- it displayed like this: "Item" (for 3$)--
+pour
+a besoin de

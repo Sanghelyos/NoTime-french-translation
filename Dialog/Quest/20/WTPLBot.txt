@@ -1,0 +1,15 @@
+[Question] Are you unknown <unknown #4129>?
+I guess? I don't know...
+[Question] Have you been the cause [Direct || Indirect] of Incident #8512 <unauthorised usage of vehicle || explosives>?
+[Demand] The questioning is not finished, please procede <unknown #4129>
+This was err a neutral event!
+[Observation] You imply that Incident #8512 <unauthorised usage of vehicle || explosives> was your cause. [Question] What was the basis of this event? [Information] Any unauthorised actions may be evaluated as declarations of war to <Administrator P.E.N.>
+[Demand] The questioning is not finished, please procede <unknown #4129>
+It was a product of a harmless experiment!
+[Objection] <harmless experiment> does not cause <unauthorised usage of vehicle || explosives>.
+[Demand] The questioning is not finished, please procede <unknown #4129>
+Oh yes they do!
+[Question] Are you affiliated with Faction 2 <Pine Lake Center>?
+[Demand] The questioning is not finished, please procede <unknown #4129>.
+Err...
+[Error] I don't understand <ERR>.

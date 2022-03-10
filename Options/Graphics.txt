@@ -1,0 +1,20 @@
+PERSONNALISES
+POST TRAITEMENT
+PARAMETRES QUALITE
+Distance d'affichage
+Distance des ombres
+Qualité des ombres
+Luminosité
+Contraste
+Flou lumineux
+Anticrénelage
+Journal de quêtes
+PARAMETRES ECRAN
+Plein écran
+LIMITE D'IPS
+CHAMP DE VISION
+OPTIONS SPECIALES
+NUAGES
+LIGHTMAPS
+Qualité des nuages
+Ombres des petits éclairages

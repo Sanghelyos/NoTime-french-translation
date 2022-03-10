@@ -1,0 +1,20 @@
+dollars.
+shillings.
+Can you smelt my gold ore? 
+Here you go!
+Sorry , not enough to pay for that!
+Place your ore on the counter then.
+I want to sell my gold.
+Place your gold bars on the counter.
+| You get: 
+Next round in 
+Pay 
+$
+Not enough money: 
+No items to buy...
+Sell for 
+No items to sell...
+Can I buy something
+ for 
+Buy
+No aclohol allowed. Sorry...

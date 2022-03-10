@@ -1,0 +1,18 @@
+Entrer
+Hauteur de vol
+Conduction temporelle
+Réacteur
+Refroidissement du réacteur
+Définir la destination
+Lumière intérieure
+Capot du réacteur
+Portière
+Sortir
+Phares
+Antigravité
+Ailes
+Retourner
+CHARGE
+OFF
+ON
+TEMP.
